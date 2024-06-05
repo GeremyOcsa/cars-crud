@@ -1,0 +1,10 @@
+.navbarStyle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #0e265d;
+    color: white;
+    position: sticky;
+}
+

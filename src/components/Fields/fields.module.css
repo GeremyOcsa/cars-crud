@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.label{
+    color: #141e57;
+    text-transform: capitalize;
+    font-weight: var(--font-regular);
+}
+
+.input{
+    border: 1px solid #5997ff;
+    background: #d9e7ff;
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 100%;
+}
